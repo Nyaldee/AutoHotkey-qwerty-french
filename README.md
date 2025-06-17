@@ -25,7 +25,7 @@ Chaque script est commenté pour faciliter la compréhension et la personnalisat
 
 #### Exemple d'utilisation :
 - Si vous utilisez `Keybinding.ahk` et avez assigné `F15` à la touche Super/Windows, alors `F15 + R` pourra par exemple relancer la touche Super/Windows.
-- Dans `french.ahk`, la touche `AltGr` est remplacée par `F20` pour taper les accents et caractères spéciaux.
+- Dans `french.ahk`, la touche `AltGr` peut être remplacée par `F20` pour taper les accents et caractères spéciaux.
 
 ---
 
