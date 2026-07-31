@@ -85,7 +85,6 @@ Insert & RButton::Send "^+t"
 
 ; --- YACReader ---
 #HotIf WinActive("ahk_exe YACReader.exe")
-Insert::Send "^w"
 PgUp::Send "{Left}"
 PgDn::Send "{Right}"
 d::Send "{Left}"
